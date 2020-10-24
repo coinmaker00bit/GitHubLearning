@@ -3,7 +3,9 @@
 Recipe Book
 
 Cake Recipe:
-1) Add Milk
+
+=======
+1) Add Milk and water
 2) Crack eggs
 3)Add flour
 4) Mix Together
@@ -15,8 +17,10 @@ Cake Recipe:
 
 
 Soup Recipe:
-1)
-
+1) Add water
+2) Add Salt
+3) Add Meat
+4) Cook
 
 Meat Dish:
 2)
