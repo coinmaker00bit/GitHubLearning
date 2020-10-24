@@ -3,7 +3,8 @@
 Recipe Book
 
 Cake Recipe:
-1) Add Milk
+1) Add flour
+2) Add Milk and water
 
 
 Soup Recipe:
